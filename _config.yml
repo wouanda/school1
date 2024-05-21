@@ -9,14 +9,14 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skate"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "7654-321"
-resume_contact_address:         "San Francisco, CA"
-resume_header_contact_info: "San Francisco, CA | 7654-321 | services@github.com"
-resume_header_intro: "<p>Professional skater who works on mobile applications when not dropping in</p>"
+resume_avatar:                  "verdad"
+resume_name:                    "Belmont Nsieze"
+resume_title:                   "Etudiant devops"
+resume_contact_email:           "belmontnsiezewouanda@gmail.com"
+resume_contact_telephone:       "5650178593"
+resume_contact_address:         "mexico, cdmx"
+resume_header_contact_info: "mexico, cdmx | 5650178593 | belmontnsiezewouanda@gmail.com"
+resume_header_intro: "<p>estudiante devops</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
